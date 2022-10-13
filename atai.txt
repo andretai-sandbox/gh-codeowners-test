@@ -1,1 +1,2 @@
 *** FILENAME=atai.txt ***
+*** DIRECTORY=root ***
